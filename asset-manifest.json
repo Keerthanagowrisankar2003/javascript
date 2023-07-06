@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Keerthanagowrisankar2003/javascript/static/css/main.ea81d9f8.css",
-    "main.js": "/Keerthanagowrisankar2003/javascript/static/js/main.ef799831.js",
-    "index.html": "/Keerthanagowrisankar2003/javascript/index.html",
-    "main.ea81d9f8.css.map": "/Keerthanagowrisankar2003/javascript/static/css/main.ea81d9f8.css.map",
-    "main.ef799831.js.map": "/Keerthanagowrisankar2003/javascript/static/js/main.ef799831.js.map"
+    "main.css": "/javascript/static/css/main.ea81d9f8.css",
+    "main.js": "/javascript/static/js/main.ef799831.js",
+    "index.html": "/javascript/index.html",
+    "main.ea81d9f8.css.map": "/javascript/static/css/main.ea81d9f8.css.map",
+    "main.ef799831.js.map": "/javascript/static/js/main.ef799831.js.map"
   },
   "entrypoints": [
     "static/css/main.ea81d9f8.css",
